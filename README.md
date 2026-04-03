@@ -16,6 +16,10 @@ npx skills@latest add -g <your-github>/skills/topic-interview
 
 ## Available Skills
 
+### Productivity
+
+- **[capture-learnings](capture-learnings/SKILL.md)** — Save conversation takeaways as Obsidian notes
+
 ### Interview
 
 - **[topic-interview](topic-interview/SKILL.md)** — 15-20 min focused technical topic interview with scorecard and debrief
