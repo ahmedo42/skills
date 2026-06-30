@@ -22,6 +22,10 @@ npx skills@latest add -g <your-github>/skills/topic-interview
 
 ### Interview
 
-- **[topic-interview](topic-interview/SKILL.md)** — 15-20 min focused technical topic interview with scorecard and debrief
-- **[coding-interview](coding-interview/SKILL.md)** — 45 min FAANG-style coding interview (Python, LeetCode-style)
-- **[system-design-interview](system-design-interview/SKILL.md)** — 45 min system design interview with phased structure
+- **[topic-interview](topic-interview/SKILL.md)** — 10-15 min focused technical topic interview with scorecard and debrief
+- **[coding-interview](coding-interview/SKILL.md)** — 45 min FAANG-style coding interview (any language, LeetCode-style)
+- **[system-design-interview](system-design-interview/SKILL.md)** — 45 min system design interview following the Hello Interview Delivery Framework
+
+### Obsidian
+
+- **[creating-obsidian-trackers](creating-obsidian-trackers/SKILL.md)** — Build queryable tracker dashboards in Obsidian using Bases (one note per item + `.base` views)
